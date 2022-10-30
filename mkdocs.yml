@@ -1,7 +1,7 @@
 site_name: Git Book
 site_description: A book on how to use Git
 site_author: Tatsuya Shiotsuka
-site_url: http://SHIO777.github.io/git-book
+site_url: https://SHIO777.github.io/git-book
 repo_name: SHIO777/git-book
 repo_url: https://github.com/SHIO777/git-book
 copyright: Copyright &copy 2022 SHIO777
@@ -44,3 +44,6 @@ extra_javascript:
 
 nav:
   - ホーム: index.md
+  - 1. Gitとは:
+      - 1.1 Gitについて: ch01-01-about-git.md
+      - 1.2 GitとGitHubの違い: ch01-02-git-and-github.md
