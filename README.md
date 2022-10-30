@@ -1,7 +1,7 @@
 # 参考
 
-[ゼロから学ぶC++](https://github.com/rinatz/cpp-book)
-[MkDocsによるドキュメント作成](https://zenn.dev/mebiusbox/articles/81d977a72cee01)
+- [ゼロから学ぶC++](https://github.com/rinatz/cpp-book)
+- [MkDocsによるドキュメント作成](https://zenn.dev/mebiusbox/articles/81d977a72cee01)
 
 # mkdocsのインストール
 ```
