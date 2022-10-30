@@ -1,0 +1,46 @@
+site_name: Git Book
+site_description: A book on how to use Git
+site_author: Tatsuya Shiotsuka
+site_url: http://SHIO777.github.io/git-book
+repo_name: SHIO777/git-book
+repo_url: https://github.com/SHIO777/git-book
+copyright: Copyright &copy 2022 SHIO777
+
+theme:
+  name: material
+  palette:
+    scheme: preference
+    primary: indigo
+    accent: amber
+  font:
+    text: Noto Sans
+    code: Inconsolata
+  language: ja
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.arithmatex:
+      generic: true
+  - meta
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - ホーム: index.md
