@@ -1,3 +1,12 @@
+
+
+
+```
+git config --global user.email "hello@gmail.com"
+git config --global user.name "YOUR_NAME"
+```
+
+
 # 設計
 
 ## 大切なこと
