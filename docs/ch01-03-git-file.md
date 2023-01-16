@@ -15,6 +15,7 @@ markdownというマークアップ言語で作成します．
 GitHubでプログラムをPublicとして公開する場合はLICENSEを記述することが重要です．
 
 代表的なものとして，以下のものがあります．
+
 * MIT LICENSE
 * GNU LICENSE
 

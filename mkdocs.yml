@@ -50,5 +50,9 @@ nav:
   - 1. Gitとは:
       - 1.1 Gitについて: ch01-01-about-git.md
       - 1.2 GitとGitHubの違い: ch01-02-git-and-github.md
+      - 1.3 Git関連のファイルについて: ch01-03-git-file.md
+      - 1.4 Git push: ch01-04-github-push.md
+  - 2. Git command:
+      - 2.1 Gitのコマンド: ch02-01-git-command.md
   - 100. appendix:
       - 100.1 command memo: ch100-01-command.md
