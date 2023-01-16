@@ -98,4 +98,9 @@ git revert COMMIT_ID
 ### キャッシュファイルを削除
 git rm -r --cached .        # ファイル全体のキャッシュを削除
 
+
+### submodule 追加
+git submodule add url submodule_name
+git submodule add https://github.com/xxx/xxxx.git xxxx
+
 ```
